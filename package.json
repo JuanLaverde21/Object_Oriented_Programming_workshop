@@ -1,0 +1,23 @@
+{
+  "name": "typescript_workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanLaverde21/Typescript_workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanLaverde21/Typescript_workshop/issues"
+  },
+  "homepage": "https://github.com/JuanLaverde21/Typescript_workshop#readme",
+  "dependencies": {
+    "typescript": "^4.8.3"
+  }
+}
